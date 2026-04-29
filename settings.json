@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ASKP.aternos.me:13777",
+    "ip": "ASKP.aternos.me",
     "port": 13777,
     "version": "1.21.1"
   },
