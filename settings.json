@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "UniversalBot",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "UniversalBot",
+    "password": "0631164866",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "RUOKMMMVTT.aternos.me",
+    "port": 20475,
     "version": "1.21.1"
   },
   "position": {
