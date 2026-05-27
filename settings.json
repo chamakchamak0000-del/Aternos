@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "KriwxOPSB",
     "password": "",
-    "type": "offline"
+    "type": "ONLINE"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "kriwxopsmp.aternos.me",
+    "port": 44286,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I'm a Kriwx AFK bot for 24/7 server",
+        "Subscribe to Kriwxop!",
+        "I like to play Minecraft bro!"
       ]
     },
     "chat-log": true,
