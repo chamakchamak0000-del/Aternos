@@ -8,7 +8,7 @@
   "server": {
     "ip": "THUNDER_xxx7.aternos.me:",
     "port": 56910,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
