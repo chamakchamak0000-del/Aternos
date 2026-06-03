@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "AKAS VAI BOT",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "notmr89.falixsrv.me",
     "port": 92591,
     "version": "1.21.1"
   },
