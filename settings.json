@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "BOT MAGNOLIA",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "162.55.241.186",
+    "port": 13554,
     "version": "1.21.1"
   },
   "position": {
