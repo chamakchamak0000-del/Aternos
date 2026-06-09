@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "akramgamerop.aternos.me:42476",
+    "port":42476,
     "version": "1.21.1"
   },
   "position": {
