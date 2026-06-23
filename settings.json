@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "VelvetSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "VelvetSMPS3.play.hosting",
+    "port": 23262,
     "version": "1.21.1"
   },
   "position": {
