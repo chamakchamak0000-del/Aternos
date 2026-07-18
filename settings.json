@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "pantomhost",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "PHANTOM_MC.aternos.me",
+    "port": 39785,
     "version": "1.21.1"
   },
   "position": {
