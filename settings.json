@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+  "server": {YTCrewsgamerSMP
+    "ip": "alisadiq1250.aternos.me",
+    "port": 13765,
+    "version": "1.26.10"
   },
   "position": {
     "enabled": true,
