@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "http://sahil876457.aternos.me:26331",
+    "ip": "sahil876457.aternos.me",
     "port": 26331,
     "version": "1.21.1"
   },
